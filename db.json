@@ -1,0 +1,154 @@
+{
+  "home": {
+    "hero": {
+      "titleKey": "hero.title",
+      "subtitleKey": "hero.subtitle",
+      "btnTextKey": "hero.btnText",
+      "btnKey": "hero.btn",
+
+      "images": {
+        "left": "/images/hero-left.jpg",
+        "right": "/images/hero-right.jpg"
+      }
+    },
+    "carousel": {
+      "id": "main-carousel",
+      "items": [
+        {
+          "id": 1,
+          "heading": "carouselTitle1",
+          "month": "carouselMonth1",
+          "day": 15,
+          "image": "/images/carousel1.jpg"
+        },
+        {
+          "id": 2,
+          "heading": "carouselTitle2",
+          "month": "carouselMonth2",
+          "day": 1,
+          "image": "/images/carousel2.jpg"
+        },
+        {
+          "id": 3,
+          "heading": "carouselTitle3",
+          "month": "carouselMonth3",
+          "day": 10,
+          "image": "/images/carousel3.jpg"
+        },
+        {
+          "id": 4,
+          "heading": "carouselTitle4",
+          "month": "carouselMonth4",
+          "day": 15,
+          "image": "/images/carousel4.jpg"
+        },
+        {
+          "id": 5,
+          "heading": "carouselTitle5",
+          "month": "carouselMonth5",
+          "day": 1,
+          "image": "/images/carousel5.jpg"
+        },
+        {
+          "id": 6,
+          "heading": "carouselTitle6",
+          "month": "carouselMonth6",
+          "day": 10,
+          "image": "/images/carousel6.jpg"
+        }
+      ]
+    },
+    "blog": {
+      "titleKey": "home.blog.title"
+    },
+    "benefitData": {
+      "benefits": [
+        { "id": 1, "benefitTitleKey": "benefitTitle1" },
+        { "id": 2, "benefitTitleKey": "benefitTitle2" },
+        { "id": 3, "benefitTitleKey": "benefitTitle3" },
+        { "id": 4, "benefitTitleKey": "benefitTitle4" },
+        { "id": 5, "benefitTitleKey": "benefitTitle5" }
+      ],
+      "titleKey": "benefitTitle",
+      "textKey": "benefitText"
+    },
+    "conference": {
+      "sloganKey": "slogan",
+      "textKey": "conferenceText",
+      "authorImgKey": "/images/darko.jpg",
+      "authorNameKey": "authorName",
+      "authorTitleKey": "authorTitle",
+      "imgKey": "/images/conference.jpg",
+      "ctaLabelKey": "ctaLabel",
+      "ctaSubKey": "ctaSub"
+    },
+    "aboutBanner": {
+      "bubbleTextKey": "bubbleText",
+      "titleKey": "aboutTitle",
+      "textKey": "aboutText",
+      "ctaLabelKey": "aboutCta",
+      "ctaHref": "/about",
+      "imgLeft": "/images/about-left.png",
+      "imgRight": "/images/about-right.png",
+      "newsletterBubbleKey": "newsletterBubble",
+      "ctaBadgeLabelKey": "ctaBadgeLabel",
+      "ctaBadgeSub": "contact@mhra.mk"
+    }
+  },
+
+  "blog": {
+    "hero": {
+      "preTitle": "Истакнат блог",
+      "title": "Како до најдобар избор при  процесот на регрутација",
+      "subtitle": "Oд Ѓоко Вукановски l 20 Јуни, 2024   ",
+
+      "images": {
+        "left": "/images/hero-left.jpg",
+        "right": "/images/hero-right.jpg"
+      }
+    },
+    "about": {
+      "aboutImage": "/images/about-image.jpg",
+      "mainText": "Биди активен/на, споделувај настани на социјаните медиуми, собирај поени, добивај значки и рамки, кани пријатели на настани и освојувај попусти за следната купена карта",
+      "secondaryText": "Доколку овој месец си најактивен/а во форумот добиваш награди за да го направиш твојот профил уникатен, а ако каниш пријатели и тие купат карта преку твојот линк за покана добиваш попуст на следната купена карта за настан."
+    },
+    "blogs": {
+      "blogImage1": "/images/blog1.jpg",
+      "blogImage2": "/images/blog2.jpg",
+      "eventImage1": "/images/event1.jpg",
+      "eventImage2": "/images/event2.jpg",
+      "sidebarBgImage": "/images/sidebar-event.jpg",
+      "jobs": {
+        "hr": "/images/logo.png",
+        "job1": "/images/job1.jpg",
+        "job2": "/images/job2.jpg",
+        "job3": "/images/job3.jpg"
+      }
+    }
+  },
+  "events": {
+    "events1": [
+      {
+        "id": 1,
+        "titleKey": "eventTitle1",
+        "image": "/images/card1.jpg"
+      },
+      {
+        "id": 2,
+        "titleKey": "eventTitle2",
+        "image": "/images/card2.jpg"
+      },
+      {
+        "id": 3,
+        "titleKey": "eventTitle3",
+        "image": "/images/card3.jpg"
+      },
+      {
+        "id": 4,
+        "titleKey": "eventTitle4",
+        "image": "/images/card4.jpg"
+      }
+    ],
+    "eventsTitleKey": "eventsTitle"
+  }
+}
