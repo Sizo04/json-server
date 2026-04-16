@@ -128,10 +128,30 @@
     "blog1": {
       "preTitle": "Блог",
       "title": "Како до најдобар избор при  процесот на регрутација",
-      "subTitle": "Oд Ѓоко Вукановски l 20 Јуни, 2024   "
+      "subTitle": "Oд Ѓоко Вукановски l 20 Јуни, 2024   ",
+      "bgImage": "hero3.png"
+    }
+  },
+
+  "conference": {
+    "hero": {
+      "preTitle": "Настан",
+      "title": "13та меѓународна МАЧР конференција",
+      "subTitle": "l 24-25 Декември, 2024",
+      "bgImage": "conference-hero.png"
     }
   },
   "events": {
+    "eventPage": {
+      "preTitle": "Истакнат Настан",
+      "title": "HR Кафе",
+      "subTitle": "Овој четврток кафе на тема како да примените техники и чекори од селф коучинг за подобро да се водите себеси... l 25 Јули, 2024     ",
+
+      "images": {
+        "left": "/images/hero-left.jpg",
+        "right": "/images/hero-right.jpg"
+      }
+    },
     "events1": [
       {
         "id": 1,
@@ -154,6 +174,114 @@
         "image": "/images/card4.jpg"
       }
     ],
+    "events2": {
+      "hrCafe": [
+        {
+          "id": 1,
+          "titleKey": "HR CAFFE на тема: Развој на кариерата",
+          "image": "/images/cafe1.jpg"
+        },
+        {
+          "id": 2,
+
+          "titleKey": "HR CAFFE на тема: вештини за комуникација",
+          "image": "/images/cafe2.jpg"
+        },
+        {
+          "id": 3,
+
+          "titleKey": "HR CAFFE на тема: потребата од зајакнување...",
+          "image": "/images/cafe3.jpg"
+        },
+        {
+          "id": 4,
+
+          "titleKey": "HR CAFFE на тема: инклузивност...",
+          "image": "/images/cafe4.jpg"
+        }
+      ],
+
+      "hrWeekend": [
+        {
+          "id": 5,
+
+          "titleKey": "Рамнотежа меѓу работа и приватен живот",
+          "image": "/images/weekend1.jpg"
+        },
+        {
+          "id": 6,
+
+          "titleKey": "Ефективно лидерство и тимска работа",
+          "image": "/images/weekend2.jpg"
+        },
+        {
+          "id": 7,
+
+          "titleKey": "Управување со стрес и ментално здравје",
+          "image": "/images/weekend3.jpg"
+        },
+        {
+          "id": 8,
+
+          "titleKey": "Мотивација и инспирација на работното место",
+          "image": "/images/weekend4.jpg"
+        }
+      ],
+
+      "hrWebinar": [
+        {
+          "id": 9,
+
+          "titleKey": "Вебинар за регрутирање и задржување на таленти",
+          "image": "/images/webinar1.jpg"
+        },
+        {
+          "id": 10,
+
+          "titleKey": "Вебинар за управување со перформанс",
+          "image": "/images/webinar2.jpg"
+        },
+        {
+          "id": 11,
+
+          "titleKey": "Вебинар за дигитална трансформација во HR",
+          "image": "/images/webinar3.jpg"
+        },
+        {
+          "id": 12,
+
+          "titleKey": "Вебинар за законска усогласеност во HR",
+          "image": "/images/webinar4.jpg"
+        }
+      ],
+
+      "hrConference": [
+        {
+          "id": 13,
+
+          "titleKey": "Конференција за иднината на работата",
+          "image": "/images/conf1.jpg"
+        },
+        {
+          "id": 14,
+
+          "titleKey": "Конференција за HR иновации",
+          "image": "/images/conf2.jpg"
+        },
+        {
+          "id": 15,
+
+          "titleKey": "Конференција за управување со таленти",
+          "image": "/images/conf3.jpg"
+        },
+        {
+          "id": 16,
+
+          "titleKey": "Конференција за дигитална трансформација во HR",
+          "image": "/images/conf4.jpg"
+        }
+      ]
+    },
     "eventsTitleKey": "eventsTitle"
   }
 }
