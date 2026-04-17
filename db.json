@@ -137,7 +137,7 @@
     "hero": {
       "preTitle": "Настан",
       "title": "13та меѓународна МАЧР конференција",
-      "subTitle": "l 24-25 Декември, 2024",
+      "subTitle": "24-25 Декември, 2024",
       "bgImage": "conference-hero.png"
     }
   },
@@ -282,6 +282,14 @@
         }
       ]
     },
-    "eventsTitleKey": "eventsTitle"
+    "eventsTitleKey": "eventsTitle",
+    "singleEvent": {
+      "hero": {
+        "preTitle": "Настан",
+        "title": "HR Кафе",
+        "subTitle": "25 Јули, 2024",
+        "bgImage": "event-page.png"
+      }
+    }
   }
 }
